@@ -47,8 +47,9 @@ Screenshots
 You can view the app's UI through the screenshots below:
 
 ![Home Screen](Screenshots/home.png)
+Home sreen
 
-Transaction History
+![Slash Screen](Screenshots/splash screen.mp4)
 
 Payment Flow
 
