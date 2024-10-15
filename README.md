@@ -49,7 +49,7 @@ You can view the app's UI through the screenshots below:
 ![Home Screen](Screenshots/home.png)
 Home sreen
 
-![Slash Screen](Screenshots/splash screen.mp4)
+![Slash Screen](Screenshots/splash_screen.mp4)
 
 Payment Flow
 
