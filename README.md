@@ -46,9 +46,10 @@ The app includes additional admin operations for managing transactions, such as 
 Screenshots
 You can view the app's UI through the screenshots below:
 
-Home Screen
+![Home Screen](Screenshots/home.png)
+Home sreen
 
-Transaction History
+![Slash Screen](Screenshots/splash_screen.mp4)
 
 Payment Flow
 
