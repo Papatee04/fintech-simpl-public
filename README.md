@@ -51,7 +51,8 @@ Home sreen
 
 ![Slash Screen](Screenshots/splash_screen.mp4)
 
-Payment Flow
+![Accounts Screen](Screenshots/accounts.png)
+Accounts screen
 
 Installation & Setup
 Clone the repository:
