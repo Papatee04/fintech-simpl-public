@@ -46,7 +46,7 @@ The app includes additional admin operations for managing transactions, such as 
 Screenshots
 You can view the app's UI through the screenshots below:
 
-Home Screen
+![Home Screen](Screenshots/home.png)
 
 Transaction History
 
