@@ -57,7 +57,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/simpl-fintech-app.git
+git clone https://github.com/Papatee04/fintech-simpl-public/
 cd simpl-fintech-app
 Install the required dependencies:
 
